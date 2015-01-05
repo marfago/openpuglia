@@ -41,3 +41,4 @@ credits: 'Freelance is a free to use, open source Bootstrap theme created by <a 
 markdown: kramdown
 permalink: pretty
 github: openpuglia
+baseurl: /openpuglia
